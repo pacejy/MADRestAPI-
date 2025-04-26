@@ -132,7 +132,7 @@
         "title": "1984 by George Orwell",
         "description": "Dystopian novel",
         "price": 8.99,
-        "image": "https://m.media-amazon.com/images/I/71kxA1-0mfL._AC_UL1500_.jpg",
+        "image": "https://s3.amazonaws.com/adg-bucket/1984-george-orwell/3423-medium.jpg",
         "categoryId": 4
     },
     {
@@ -140,7 +140,7 @@
         "title": "The Catcher in the Rye",
         "description": "Novel by J.D. Salinger",
         "price": 10.99,
-        "image": "https://m.media-amazon.com/images/I/71wLZ0JStCL._AC_UL1500_.jpg",
+        "image": "https://m.media-amazon.com/images/I/91YXaY-I9VS._UF1000,1000_QL80_.jpg",
         "categoryId": 4
     },
     {
@@ -164,7 +164,7 @@
         "title": "Maybelline Lipstick",
         "description": "Matte finish lipstick",
         "price": 7.0,
-        "image": "https://m.media-amazon.com/images/I/61Jgj7ysO0L._SL1500_.jpg",
+        "image": "https://m.media-amazon.com/images/I/71hdQ9s0hTL._AC_UF1000,1000_QL80_.jpg",
         "categoryId": 5
     },
     {
@@ -172,7 +172,7 @@
         "title": "Neutrogena Face Wash",
         "description": "Oil-free acne face wash",
         "price": 10.0,
-        "image": "https://m.media-amazon.com/images/I/71xZCexuJ6L._SL1500_.jpg",
+        "image": "https://m.media-amazon.com/images/I/61KMpNntDAL.jpg",
         "categoryId": 5
     },
     {
@@ -188,7 +188,7 @@
         "title": "Clinique Moisturizer",
         "description": "Dramatically different hydrating jelly",
         "price": 27.0,
-        "image": "https://m.media-amazon.com/images/I/51WoNdLPCFL._SL1500_.jpg",
+        "image": "https://m.media-amazon.com/images/I/61vh+iGk1kL._AC_UF1000,1000_QL80_.jpg",
         "categoryId": 5
     },
     {
@@ -196,7 +196,7 @@
         "title": "Estée Lauder Perfume",
         "description": "Beautiful Eau de Parfum",
         "price": 68.0,
-        "image": "https://m.media-amazon.com/images/I/61lXDo8-fzL._SL1500_.jpg",
+        "image": "https://m.media-amazon.com/images/I/61Bmt7A8agL._AC_UF1000,1000_QL80_.jpg",
         "categoryId": 5
     }
 ]
