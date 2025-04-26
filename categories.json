@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "title": "Electronics",
+        "image": "https://m.media-amazon.com/images/I/81+T4tbDLWL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Fashion",
+        "image": "https://m.media-amazon.com/images/I/91XRPEvULvL._AC_UL1500_.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Home Appliances",
+        "image": "https://m.media-amazon.com/images/I/71DZZZ2zYJL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Books",
+        "image": "https://m.media-amazon.com/images/I/61Iz2yy2CKL.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Beauty",
+        "image": "https://m.media-amazon.com/images/I/61Jgj7ysO0L._SL1500_.jpg"
+    },
+    { "id": 6, "title": "string", "image": "string" }
+]

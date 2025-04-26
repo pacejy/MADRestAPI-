@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "title": "Dell XPS 13",
+        "description": "High-performance ultrabook",
+        "price": 1200.0,
+        "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/13-9340/media-gallery/silver/touch/notebook-xps-13-9340-t-sl-gallery-2.psd?fmt\u003dpng",
+        "categoryId": 1
+    },
+    {
+        "id": 2,
+        "title": "iPhone 14 Pro",
+        "description": "Latest flagship smartphone from Apple",
+        "price": 999.0,
+        "image": "https://images.priceoye.pk/apple-iphone-14-pro-pakistan-priceoye-fmnxi-500x500.webp",
+        "categoryId": 1
+    },
+    {
+        "id": 3,
+        "title": "Sony WH-1000XM4",
+        "description": "Noise-canceling wireless headphones",
+        "price": 349.0,
+        "image": "https://www.shophive.com/media/catalog/product/cache/3617b85921733ef3774cdbec091e1c0f/7/1/71o8q5xjs5l._ac_sl1500_.jpg",
+        "categoryId": 1
+    },
+    {
+        "id": 4,
+        "title": "Samsung Galaxy Tab S7",
+        "description": "Android tablet with S-Pen",
+        "price": 649.0,
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-tab-s7-1.jpg",
+        "categoryId": 1
+    },
+    {
+        "id": 5,
+        "title": "GoPro HERO9",
+        "description": "4K action camera",
+        "price": 399.0,
+        "image": "https://m.media-amazon.com/images/I/518PGIaxCPL._AC_SX466_.jpg",
+        "categoryId": 1
+    },
+    {
+        "id": 6,
+        "title": "Nike Air Force 1",
+        "description": "Classic white sneakers",
+        "price": 90.0,
+        "image": "https://ohpairpk.com/cdn/shop/products/02_83945d26-cb2d-4f9e-9569-9b3ad636adcc_1200x1200.jpg?v\u003d1653557213",
+        "categoryId": 2
+    },
+    {
+        "id": 7,
+        "title": "Levi\u0027s Men\u0027s 501 Jeans",
+        "description": "Original fit jeans",
+        "price": 50.0,
+        "image": "https://i.ebayimg.com/images/g/ZsMAAOSwAWlabRQ0/s-l1200.jpg",
+        "categoryId": 2
+    },
+    {
+        "id": 8,
+        "title": "Adidas Ultraboost 21",
+        "description": "High-performance running shoes",
+        "price": 180.0,
+        "image": "https://preview.thenewsmarket.com/Previews/ADID/StillAssets/1920x1080/576929_v2.jpg",
+        "categoryId": 2
+    },
+    {
+        "id": 9,
+        "title": "Ray-Ban Aviator Sunglasses",
+        "description": "Classic aviator sunglasses",
+        "price": 150.0,
+        "image": "https://robbreport.com/wp-content/uploads/2022/07/tomcruiseaviators.jpg?w\u003d1000",
+        "categoryId": 2
+    },
+    {
+        "id": 10,
+        "title": "The North Face Jacket",
+        "description": "Waterproof hiking jacket",
+        "price": 200.0,
+        "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F11%2Fthe-north-face-himalayan-park-more-than-a-jacket-details-00.jpg?w\u003d960\u0026cbr\u003d1\u0026q\u003d90\u0026fit\u003dmax",
+        "categoryId": 2
+    },
+    {
+        "id": 11,
+        "title": "LG French Door Refrigerator",
+        "description": "Energy-efficient smart fridge",
+        "price": 2000.0,
+        "image": "https://dhabione.pk/wp-content/uploads/2023/10/Untitled-design-2024-07-18T230718.545.jpg",
+        "categoryId": 3
+    },
+    {
+        "id": 12,
+        "title": "Panasonic Microwave Oven",
+        "description": "Compact countertop microwave",
+        "price": 150.0,
+        "image": "https://static1.squarespace.com/static/5e4fd2afdc83ee789018fc14/5e95d67ee8579f209b5e9283/5ea03e9e4e0a3635e1e7a572/1587560178296/?format\u003d1500w",
+        "categoryId": 3
+    },
+    {
+        "id": 13,
+        "title": "Dyson V11 Vacuum",
+        "description": "Cordless vacuum cleaner",
+        "price": 599.0,
+        "image": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/products/cord-free-vacuums/sticks/v11---753/OVERVIEW_HEADER_V11_LB.jpg",
+        "categoryId": 3
+    },
+    {
+        "id": 14,
+        "title": "Instant Pot Duo",
+        "description": "7-in-1 electric pressure cooker",
+        "price": 89.0,
+        "image": "https://www.usatoday.com/gcdn/presto/2019/05/30/USAT/351b2e88-e3fd-4f1d-a560-4d3b1cd9e32e-InstantPotHero.png?width\u003d660\u0026height\u003d372",
+        "categoryId": 3
+    },
+    {
+        "id": 15,
+        "title": "Ninja Blender",
+        "description": "High-speed blender",
+        "price": 99.0,
+        "image": "https://res.cloudinary.com/sharkninja-na/image/upload/q_auto,f_auto/v1693424725/NinjaUS/Category/New%20Blenders/Module%201%20Marquee%20Video/Module%202/R_TB401_InUse_Kitchen_Island_Square_Lineup.jpg",
+        "categoryId": 3
+    },
+    {
+        "id": 16,
+        "title": "To Kill a Mockingbird",
+        "description": "Classic novel by Harper Lee",
+        "price": 9.99,
+        "image": "https://kalliopesjourney.com/wp-content/uploads/2019/09/to-kill-a-mockingbird.jpg?w\u003d500",
+        "categoryId": 4
+    },
+    {
+        "id": 17,
+        "title": "1984 by George Orwell",
+        "description": "Dystopian novel",
+        "price": 8.99,
+        "image": "https://m.media-amazon.com/images/I/71kxA1-0mfL._AC_UL1500_.jpg",
+        "categoryId": 4
+    },
+    {
+        "id": 18,
+        "title": "The Catcher in the Rye",
+        "description": "Novel by J.D. Salinger",
+        "price": 10.99,
+        "image": "https://m.media-amazon.com/images/I/71wLZ0JStCL._AC_UL1500_.jpg",
+        "categoryId": 4
+    },
+    {
+        "id": 19,
+        "title": "Sapiens",
+        "description": "A Brief History of Humankind by Yuval Noah Harari",
+        "price": 14.99,
+        "image": "https://m.media-amazon.com/images/I/713jIoMO3UL._AC_UL1500_.jpg",
+        "categoryId": 4
+    },
+    {
+        "id": 20,
+        "title": "Educated",
+        "description": "Memoir by Tara Westover",
+        "price": 12.99,
+        "image": "https://m.media-amazon.com/images/I/81WojUxbbFL._AC_UL1500_.jpg",
+        "categoryId": 4
+    },
+    {
+        "id": 21,
+        "title": "Maybelline Lipstick",
+        "description": "Matte finish lipstick",
+        "price": 7.0,
+        "image": "https://m.media-amazon.com/images/I/61Jgj7ysO0L._SL1500_.jpg",
+        "categoryId": 5
+    },
+    {
+        "id": 22,
+        "title": "Neutrogena Face Wash",
+        "description": "Oil-free acne face wash",
+        "price": 10.0,
+        "image": "https://m.media-amazon.com/images/I/71xZCexuJ6L._SL1500_.jpg",
+        "categoryId": 5
+    },
+    {
+        "id": 23,
+        "title": "L\u0027Oreal Shampoo",
+        "description": "Volume filler shampoo",
+        "price": 5.0,
+        "image": "https://m.media-amazon.com/images/I/61McsadO1OL._SL1500_.jpg",
+        "categoryId": 5
+    },
+    {
+        "id": 24,
+        "title": "Clinique Moisturizer",
+        "description": "Dramatically different hydrating jelly",
+        "price": 27.0,
+        "image": "https://m.media-amazon.com/images/I/51WoNdLPCFL._SL1500_.jpg",
+        "categoryId": 5
+    },
+    {
+        "id": 25,
+        "title": "Estée Lauder Perfume",
+        "description": "Beautiful Eau de Parfum",
+        "price": 68.0,
+        "image": "https://m.media-amazon.com/images/I/61lXDo8-fzL._SL1500_.jpg",
+        "categoryId": 5
+    }
+]
