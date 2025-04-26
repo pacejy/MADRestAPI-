@@ -213,16 +213,16 @@ cartRouter.post("/:userId", (req, res) => {
         return;
     }
 
-    if (user.cart.find((item) => item.product === product)) {
-        res.status(400).json({ status: 400, msg: "Item already exists" });
-        return;
+    const item = user.cart.find((item) => item.product === product);
+    if (item) {
+        item.quantity++;
+    } else {
+        user.cart.push({
+            product,
+            quantity: data.data.quantity,
+            id: ++user.cartId,
+        });
     }
-
-    user.cart.push({
-        product,
-        quantity: data.data.quantity,
-        id: ++user.cartId,
-    });
     res.status(200).json({ msg: "Success", data: user.cartJson() });
 });
 
