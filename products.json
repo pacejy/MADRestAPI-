@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "title": "Dell XPS 13",
-        "description": "High-performance ultrabook",
-        "price": 1200.0,
-        "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/13-9340/media-gallery/silver/touch/notebook-xps-13-9340-t-sl-gallery-2.psd?fmt\u003dpng",
+        "title": "Pace One Plaza University Building",
+        "description": "NYC University",
+        "price": 1,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pace_University_-_Building_%2848126561633%29.jpg/2048px-Pace_University_-_Building_%2848126561633%29.jpg",
         "categoryId": 1
     },
     {
